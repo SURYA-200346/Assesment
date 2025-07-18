@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+/* navbar */
+.navbar{
+    background-color: #333;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.navbar ul{
+    list-style: none;
+    display: flex;
+}
+.navbar li{
+    padding: 10px;
+    font-size: 15px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+     padding: 10px;
+}
+a:hover{
+    background-color: #555;
+    transition-duration: 0.3s;
+}
+ul .active{
+    font-size: 17px;
+    font-weight: 700;
+    color: orangered;
+}
