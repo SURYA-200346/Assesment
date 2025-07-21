@@ -71,7 +71,7 @@ form .btn {
 .btn button {
     position: relative;
     display: block;
-    padding: 10px;
+    padding: 12px;
     margin: 0 0 15px 20px;
     width: 310px;
     border-radius: 10px;
@@ -80,6 +80,10 @@ form .btn {
 .Facebook {
     background-color: blue;
     color: white;
+}
+.github{
+    background-color: white;
+    color: black;
 }
 button i{
     position: absolute;

@@ -16,7 +16,6 @@ form {
 
 form>h2 {
     text-align: center;
-
 }
 
 form input[type="email"],
@@ -49,7 +48,6 @@ form a {
     text-decoration: none;
     color: blue;
 }
-
 form span {
     position: absolute;
     top: 60%;
@@ -61,29 +59,29 @@ form .sign-up {
     top: 60%;
     right: 20%;
 }
-
 form .btn {
     display: block;
     position: absolute;
     top: 70%;
 }
-
 .btn button {
     position: relative;
     display: block;
-    padding: 10px;
+    padding: 12px;
     margin: 0 0 15px 20px;
     width: 310px;
     border-radius: 10px;
     border: 1px solid black;
 }
-
 .Facebook {
     background-color: blue;
     color: white;
 }
-
-button i {
+.github{
+    background-color: white;
+    color: black;
+}
+button > i {
     position: absolute;
     left: 5%;
     top: 55%
