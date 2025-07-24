@@ -25,12 +25,13 @@ form{
     width: 25vw;
     height: 80vh;
 }
-form .heading{
+form h2{
     text-align: center;
 }
 form label{
     display: block;
     padding: 20px;
+
 }
 form input{
     padding: 10px;
